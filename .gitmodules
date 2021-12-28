@@ -1,0 +1,3 @@
+[submodule "submodMEARN-Auth"]
+	path = submodMEARN-Auth
+	url = https://github.com/bio-clau/submodMEARN-Auth.git
